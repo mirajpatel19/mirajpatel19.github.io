@@ -42,3 +42,7 @@ PLUGINS = ['ipynb.markup']
 # if you create jupyter files in the content dir, snapshots are saved with the same
 # metadata. These need to be ignored. 
 IGNORE_FILES = [".ipynb_checkpoints"] 
+
+# Setting my theme
+#THEME = '/path/to/pelican-alchemy/alchemy'
+THEME = 'themes/pelican-alchemy/alchemy'
