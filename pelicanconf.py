@@ -6,6 +6,21 @@ AUTHOR = 'Miraj Patel'
 SITENAME = "Miraj's Portfolio"
 SITEURL = ''
 
+#-------------------------------------------------
+
+SITETITLE = 'Miraj'
+SITESUBTITLE = 'The minimalist Pelican theme'
+SITEDESCRIPTION = 'Patel - The minimalist Pelican theme.'
+# SITELOGO = ''
+# FAVICON = '/images/favicon.ico'
+BROWSER_COLOR = '#333333'
+PYGMENTS_STYLE = 'monokai'
+
+ROBOTS = 'index, follow'
+
+THEME = '../'
+#-------------------------------------------------
+
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
@@ -51,7 +66,7 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 #THEME = 'themes/pelican-alchemy/alchemy'
 
 # To use mnmlist theme. working one!
-THEME = "./themes/pelican-themes/flex"
+THEME = "./themes/pelican-themes/Flex"
 
 
 #THEME = "./themes/pelican-themes/clean-blog"
