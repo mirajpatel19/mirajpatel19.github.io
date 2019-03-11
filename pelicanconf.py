@@ -8,7 +8,7 @@ SITEURL = ''
 
 #-------------------------------------------------
 
-SITETITLE = 'Miraj'
+SITETITLE = 'Miraj Patel'
 SITESUBTITLE = 'The minimalist Pelican theme'
 SITEDESCRIPTION = 'Patel - The minimalist Pelican theme.'
 # SITELOGO = ''
@@ -34,6 +34,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+USE_FOLDER_AS_CATEGORY = False
+MAIN_MENU = True
+HOME_HIDE_TAGS = True
 #___________________________________________________
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
