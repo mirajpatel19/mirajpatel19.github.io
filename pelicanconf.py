@@ -45,4 +45,4 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 
 # Setting my theme
 #THEME = '/path/to/pelican-alchemy/alchemy'
-THEME = 'themes/pelican-alchemy/alchemy'
+#THEME = 'themes/pelican-alchemy/alchemy'
