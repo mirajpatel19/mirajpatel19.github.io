@@ -43,6 +43,15 @@ AUTHOR_FEED_RSS = None
 USE_FOLDER_AS_CATEGORY = False
 MAIN_MENU = True
 HOME_HIDE_TAGS = True
+
+DISQUS_SITENAME = "flex-pelican"
+ADD_THIS_ID = 'ra-55adbb025d4f7e55'
+
+STATIC_PATHS = ['images', 'extra']
+
+CUSTOM_CSS = 'static/custom.css'
+
+USE_LESS = True
 #___________________________________________________
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
