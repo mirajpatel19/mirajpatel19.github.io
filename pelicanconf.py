@@ -48,4 +48,4 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 #THEME = 'themes/pelican-alchemy/alchemy'
 
 # To use mnmlist theme 
-THEME = "./themes/pelican-themes/elegant"
+THEME = "./themes/pelican-themes/flex"
