@@ -6,21 +6,6 @@ AUTHOR = 'Miraj Patel'
 SITENAME = "Miraj's Portfolio"
 SITEURL = ''
 
-#-------------------------------------------------
-
-SITETITLE = 'Miraj Patel'
-SITESUBTITLE = 'The minimalist Pelican theme'
-SITEDESCRIPTION = 'Patel - The minimalist Pelican theme.'
-# SITELOGO = ''
-# FAVICON = '/images/favicon.ico'
-BROWSER_COLOR = '#333333'
-PYGMENTS_STYLE = 'monokai'
-
-ROBOTS = 'index, follow'
-
-THEME = '../'
-#-------------------------------------------------
-
 PATH = 'content'
 
 TIMEZONE = 'America/Los_Angeles'
@@ -34,24 +19,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-USE_FOLDER_AS_CATEGORY = False
-MAIN_MENU = True
-HOME_HIDE_TAGS = True
-
-DISQUS_SITENAME = "flex-pelican"
-ADD_THIS_ID = 'ra-55adbb025d4f7e55'
-
-STATIC_PATHS = ['images', 'extra']
-
-CUSTOM_CSS = 'static/custom.css'
-
-USE_LESS = True
 #___________________________________________________
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
