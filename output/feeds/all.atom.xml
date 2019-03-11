@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Miraj's Portfolio</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-03-11T10:23:00-07:00</updated><entry><title>Analyzing TED Talks</title><link href="/analyzing-ted-talks.html" rel="alternate"></link><published>2019-03-11T10:23:00-07:00</published><updated>2019-03-11T10:23:00-07:00</updated><author><name>Miraj Patel</name></author><id>tag:None,2019-03-11:/analyzing-ted-talks.html</id><summary type="html">&lt;p&gt;Analyzing TED Talks from years 0000 - 0000.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Miraj's Portfolio</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2019-03-11T10:23:00-07:00</updated><entry><title>Analyzing TED Talks</title><link href="/analyzing-ted-talks.html" rel="alternate"></link><published>2019-03-11T10:23:00-07:00</published><updated>2019-03-11T10:23:00-07:00</updated><author><name>Miraj Patel</name></author><id>tag:None,2019-03-11:/analyzing-ted-talks.html</id><summary type="html">&lt;p&gt;Analyzing TED talks through-out the years.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
@@ -15935,7 +15935,7 @@ dtype: int64&lt;/pre&gt;
     (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
 }
 &lt;/script&gt;
-</content><category term="IMDB"></category><category term="Movies"></category><category term="Analysis"></category></entry><entry><title>Web Scrapping 2019 NBA Free Agents</title><link href="/web-scrapping-2019-nba-free-agents.html" rel="alternate"></link><published>2019-03-11T10:23:00-07:00</published><updated>2019-03-11T10:23:00-07:00</updated><author><name>Miraj Patel</name></author><id>tag:None,2019-03-11:/web-scrapping-2019-nba-free-agents.html</id><summary type="html">&lt;p&gt;Web Scrapping 2019 NBA Free Agents as .CSV file to use in a different project.&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
+</content><category term="IMDB"></category><category term="Movies"></category><category term="Analysis"></category></entry><entry><title>Web Scrapping 2019 NBA Free Agents</title><link href="/web-scrapping-2019-nba-free-agents.html" rel="alternate"></link><published>2019-03-11T10:23:00-07:00</published><updated>2019-03-11T10:23:00-07:00</updated><author><name>Miraj Patel</name></author><id>tag:None,2019-03-11:/web-scrapping-2019-nba-free-agents.html</id><summary type="html">&lt;p&gt;Web Scrapping 2019 NBA Free Agents as .CSV file to be used for a project, "2010-2017 NBA Stats Analyzing to find best basketball shooters for Los Angeles Lakers."&lt;/p&gt;</summary><content type="html">&lt;style type="text/css"&gt;/*!
 *
 * IPython notebook
 *
