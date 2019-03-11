@@ -50,4 +50,11 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 # To use mnmlist theme. working one!
 #THEME = "./themes/pelican-themes/flex"
 THEME = "./themes/pelican-themes/clean-blog"
-HEADER_COVER = 'static/my_image.jpeg'
+#HEADER_COVER = 'static/my_image.jpeg'
+
+HEADER_COLOR = 'black'
+SOCIAL = (('twitter', 'https://twitter.com/myprofile'),
+          ('github', 'https://github.com/myprofile'),
+          ('facebook','https://facebook.com/myprofile'),
+          ('flickr','https://www.flickr.com/myprofile/'),
+          ('envelope','mailto:my@mail.address'))
