@@ -50,3 +50,4 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 # To use mnmlist theme. working one!
 #THEME = "./themes/pelican-themes/flex"
 THEME = "./themes/pelican-themes/clean-blog"
+HEADER_COVER = 'static/my_image.jpeg'
