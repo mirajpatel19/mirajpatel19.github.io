@@ -44,16 +44,11 @@ PLUGINS = ['ipynb.markup']
 IGNORE_FILES = [".ipynb_checkpoints"] 
 
 # Setting my theme
-#THEME = '/path/to/pelican-alchemy/alchemy'
-#THEME = './themes/pelican-themes/alchemy'
-
-# To use mnmlist theme. working one!
-#THEME = "./themes/pelican-themes/Flex"
-
-
 THEME = "./themes/pelican-theme/clean-blog"
+#HEADER_COVER = './static/computer-cour.jpg'
+#COLOR_SCHEME_CSS = 'monokai.css'
+
 #THEME = "./themes/pelican-theme/gum"
-#THEME = "./themes/pelican-theme/simple-bootstrap"
 
 #THEME = "./themes/pelican-theme/alchemy"
 
