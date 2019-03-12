@@ -52,7 +52,7 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 
 
 #THEME = "./themes/pelican-theme/clean-blog"
-#THEME = "./themes/pelican-theme/gum"
-THEME = "./themes/pelican-theme/simple-bootstrap"
+THEME = "./themes/pelican-theme/gum"
+#THEME = "./themes/pelican-theme/simple-bootstrap"
 
 #THEME = "./themes/pelican-theme/nest"
