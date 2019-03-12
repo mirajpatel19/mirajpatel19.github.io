@@ -51,7 +51,7 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 #THEME = "./themes/pelican-themes/Flex"
 
 
-THEME = "./themes/pelican-theme/clean-blog"
+#THEME = "./themes/pelican-theme/clean-blog"
 #THEME = "./themes/pelican-themes/gum"
 
-COLOR_SCHEME_CSS = 'tomorrow.css'
+THEME = "./themes/pelican-themes/blue-penguin"
