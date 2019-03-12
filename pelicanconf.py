@@ -51,8 +51,13 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 #THEME = "./themes/pelican-themes/Flex"
 
 
-THEME = "./themes/pelican-theme/clean-blog"
+#THEME = "./themes/pelican-theme/clean-blog"
 #THEME = "./themes/pelican-theme/gum"
 #THEME = "./themes/pelican-theme/simple-bootstrap"
 
-#THEME = "./themes/pelican-theme/nest"
+THEME = "./themes/pelican-theme/alchemy"
+
+
+#Go to base.html file, which is usually in templates folder of any theme.
+#Then find '|format(' and replace it with '.format(slug=' without quotes. 
+
