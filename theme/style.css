@@ -177,11 +177,16 @@ address { font-size:14px; margin-bottom:10px;}
 --------------------------------------------------------- */
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    /*My Customization
     color: #3498DB;
+    */
+    color: #d9411e;
 }
 
-/*a, a:hover { color: #3498DB; }
-a:focus { color: #34495E; }*/
+/*My Customization
+a, a:hover { color: #3498DB; }
+a:focus { color: #34495E; }
+*/
 a, a:hover { color: #d9411e; }
 a:focus { color: #ff5a09; }
 
